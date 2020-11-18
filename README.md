@@ -20,7 +20,7 @@ Note: add `--sys-prefix` to `jupyter nbextension` to install into virtualenv or 
 
 ## New in 0.5.3, 0.5.5 and 0.5.6
 #### Improvements
-* Added Binder demo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kirbs-/hide_code/master?filepath=demo.ipynb)
+* Added Binder demo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schemm/bab/master?filepath=covid19de.ipynb)
 * Simplified extension installation. No longer need to use nbextension/serverextension commands after pip install.
 * No longer supporting Python 2.7 or . Install hide_code==0.5.2 for Python 2.7.
 * 0.5.6 is the last version to support Python versions below 3.7.
